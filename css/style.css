@@ -1,0 +1,20 @@
+.img-div {
+    position: relative;
+}
+
+/* Bottom right text modal */
+.text-block {
+    position: absolute;
+    top: 30px;
+    right: 20px;
+    background-color: #EB5757;
+    color: white;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: 14px;
+}
+
+ul>li {
+    font-size: 14px;
+    ;
+}
